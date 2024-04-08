@@ -20,7 +20,7 @@ the project uses TailwindCSS, and a custom font, Roboto, is installed.
 
 I used a custom data set, but identical to the one provided with your project, except that it's inspired from the real LesEchos website. It the same data structure.
 
-to select a user, there is the .env.local file where user permissions are set : empty, RIGHT_1, RIGHT_1,RIGHT_2, of course it's just to be quick in the development of this home assignement.
+to select a user, there is the .env.local file where user permissions are set : <empty>, RIGHT_1, RIGHT_1,RIGHT_2, of course it's just to be quick in the development of this home assignement.
 Ideally a login system should be implemented. When the page is loaded a toast welcome the user selected with his rights.
 
 Everything is Typescript typed. When types are re-used across components, interface are in separate files.
